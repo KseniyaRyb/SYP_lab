@@ -20,7 +20,7 @@ namespace LR1
         private IChatService _chatService;
         private readonly ILogger<Bot> _logger;//Логгер для красивого логирования
 
-        private readonly TelegramBotClient _botClient = new TelegramBotClient("5016517792:AAFfx6YpDu85jEcs9G0adzDm7WzKZR_pAC8"); //Создание ТГ-бота - нужно указать токен
+        private readonly TelegramBotClient _botClient = new TelegramBotClient("токен"); //Создание ТГ-бота - нужно указать токен
         
         private readonly IServiceScopeFactory _services;
         
