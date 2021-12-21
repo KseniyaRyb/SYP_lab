@@ -1,0 +1,238 @@
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\appsettings.json
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\LR1.exe
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\LR1.deps.json
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\LR1.runtimeconfig.json
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\LR1.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\ref\LR1.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\LR1.pdb
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.AssemblyInfo.cs
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\scopedcss\bundle\LR1.styles.css
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.csproj.CopyComplete
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.dll
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\ref\LR1.dll
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.pdb
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.genruntimeconfig.cache
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\SqlExpress.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Иван\source\repos\LR1\obj\Debug\net6.0\LR1.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\KeraLua.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\NLua.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\android-arm\native\liblua54.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\android-arm64\native\liblua54.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\android-x64\native\liblua54.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\android-x86\native\liblua54.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\ios\native\liblua54.framework\Info.plist
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\ios\native\liblua54.framework\liblua54
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\linux-x64\native\liblua54.so
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\maccatalyst\native\liblua54.framework\Info.plist
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\maccatalyst\native\liblua54.framework\liblua54
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\osx\native\liblua54.dylib
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\tvos\native\liblua54.framework\Info.plist
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\tvos\native\liblua54.framework\liblua54
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-arm\native\lua54.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-arm64\native\lua54.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x64\native\lua54.dll
+C:\Users\Иван\source\repos\LR1\bin\Debug\net6.0\runtimes\win-x86\native\lua54.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.csproj.AssemblyReference.cache
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.AssemblyInfoInputs.cache
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.AssemblyInfo.cs
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\ref\LR1.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.pdb
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\appsettings.json
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\LR1.exe
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\LR1.deps.json
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\LR1.runtimeconfig.json
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\LR1.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\ref\LR1.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\LR1.pdb
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\KeraLua.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\NLua.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\SqlExpress.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Data.SQLite.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\android-arm\native\liblua54.so
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\android-arm64\native\liblua54.so
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\android-x64\native\liblua54.so
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\android-x86\native\liblua54.so
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\ios\native\liblua54.framework\Info.plist
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\ios\native\liblua54.framework\liblua54
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\linux-x64\native\liblua54.so
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\maccatalyst\native\liblua54.framework\Info.plist
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\maccatalyst\native\liblua54.framework\liblua54
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\osx\native\liblua54.dylib
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\tvos\native\liblua54.framework\Info.plist
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\tvos\native\liblua54.framework\liblua54
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-arm\native\lua54.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-arm64\native\lua54.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x64\native\lua54.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x86\native\lua54.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\scopedcss\bundle\LR1.styles.css
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.csproj.CopyComplete
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\obj\Debug\net6.0\LR1.genruntimeconfig.cache
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\Ксения\Desktop\СЯП\ЛР4 сяп\bin\Debug\net6.0\System.IO.Pipelines.dll

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e251f1c-c7ab-4b91-bfba-dd1629cdc2e3": {
+      "ProjectGuid": "9e251f1c-c7ab-4b91-bfba-dd1629cdc2e3",
+      "DisplayName": "LR5SYAP",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
